@@ -19,3 +19,7 @@ fc-cache -fv
 It actually looked like that picked up some of the nix-installed paths, too,
 so I am not sure whether `~/.local/share/fonts` is being used. I will check
 that when I have some free time.
+
+_____________
+
+[`st`]: https://st.suckless.org/
